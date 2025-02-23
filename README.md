@@ -1,3 +1,5 @@
 # Challenge amigo secreto de Alura Latam
 
 Escribe el nombre de tu amigo en el campo y presiona "Añadir". Pulsa el botón "Sortear" para que la página elija uno de ellos de forma aleatoria. Pulsa el botón "Reiniciar" para comenzar de nuevo.
+
+![Amigo secreto](assets/amigos.png)
